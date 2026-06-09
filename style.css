@@ -12,14 +12,14 @@ line-height:1.8;
 }
 
 header{
-background:linear-gradient(135deg,#1b5e20,#43a047);
+background:linear-gradient(135deg,#fdbafd,#f3b5f8);
 color:white;
 text-align:center;
 padding:60px 20px;
 }
 
 nav{
-background:#2e7d32;
+background:#ffffff;
 display:flex;
 justify-content:center;
 flex-wrap:wrap;
@@ -33,7 +33,7 @@ font-weight:bold;
 }
 
 nav a:hover{
-background:#1b5e20;
+background:#f4aef7;
 }
 
 .banner{
@@ -49,7 +49,7 @@ padding:50px 20px;
 }
 
 h2{
-color:#1b5e20;
+color:#f2b3ff;
 margin-bottom:20px;
 }
 
@@ -70,13 +70,13 @@ box-shadow:0 0 10px rgba(0,0,0,.1);
 blockquote{
 margin-top:30px;
 padding:20px;
-background:#e8f5e9;
-border-left:6px solid #2e7d32;
+background:#ffffff;
+border-left:6px solid #ecafe4;
 font-style:italic;
 }
 
 footer{
-background:#1b5e20;
+background:#f1cbf1;
 color:white;
 text-align:center;
 padding:20px;
