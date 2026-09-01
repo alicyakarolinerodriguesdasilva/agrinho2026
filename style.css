@@ -6,7 +6,7 @@ font-family:Arial, sans-serif;
 }
 
 body{
-background:#fcfcfc;
+background:#000000;
 color:#faf5f5;
 line-height:1.8;
 }
@@ -77,7 +77,7 @@ font-style:italic;
 
 footer{
 background:#f1cbf1;
-color:white;
+color:rgb(232, 187, 240);
 text-align:center;
 padding:20px;
 }
